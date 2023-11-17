@@ -1,0 +1,251 @@
+%!Adobe-FontList 1.23
+%Locale:0xc0a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BungeeLayers-Regular
+FamilyName:Bungee Layers
+StyleName:Regular
+FullName:Bungee Layers Regular
+MenuName:Bungee Layers Regular
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\belen\Desktop\FIRECHIP\Citychip\press-kit\Manual identidad\Manual identidad empaquetado\Document fonts\BungeeLayers-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:113328
+FileModTime:1699873835
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Bungee Layers Regular
+NameArray:0,Win,1,Bungee Layers Regular
+NameArray:0,Win,16,Bungee Layers
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GillSansMT
+FamilyName:Gill Sans MT
+StyleName:Regular
+FullName:Gill Sans MT
+MenuName:Gill Sans MT
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\belen\Desktop\FIRECHIP\Citychip\press-kit\Manual identidad\Manual identidad empaquetado\Document fonts\GIL_____.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:67416
+FileModTime:1659281881
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gill Sans MT
+NameArray:0,Win,1,Gill Sans MT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\belen\Desktop\FIRECHIP\Citychip\press-kit\Manual identidad\Manual identidad empaquetado\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1650325062
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceCodeVariable-Roman
+FamilyName:Source Code Variable
+StyleName:Roman
+FullName:Source Code Variable
+MenuName:Source Code Variable
+FamilyPrefix:SourceCodeRoman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\belen\Desktop\FIRECHIP\Citychip\press-kit\Manual identidad\Manual identidad empaquetado\Document fonts\SourceCodeVariable-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:yes
+VariableFontType:CFF2VariableFont
+FileLength:198600
+FileModTime:1650325062
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Mac,4,Source Code Variable
+NameArray:0,Win,1,Source Code Variable
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSansVariable-Italic
+FamilyName:Source Sans Variable
+StyleName:Italic
+FullName:Source Sans Variable Italic
+MenuName:Source Sans Variable
+FamilyPrefix:SourceSansItalic
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\belen\Desktop\FIRECHIP\Citychip\press-kit\Manual identidad\Manual identidad empaquetado\Document fonts\SourceSansVariable-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:CFF2VariableFont
+FileLength:114488
+FileModTime:1650325062
+WeightClass:200
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Variable Italic
+NameArray:0,Win,1,Source Sans Variable
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSansVariable-Roman
+FamilyName:Source Sans Variable
+StyleName:Roman
+FullName:Source Sans Variable
+MenuName:Source Sans Variable
+FamilyPrefix:SourceSansRoman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\belen\Desktop\FIRECHIP\Citychip\press-kit\Manual identidad\Manual identidad empaquetado\Document fonts\SourceSansVariable-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:CFF2VariableFont
+FileLength:414588
+FileModTime:1650325062
+WeightClass:200
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Variable
+NameArray:0,Win,1,Source Sans Variable
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+FullName:Arial
+MenuName:Arial
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\belen\Desktop\FIRECHIP\Citychip\press-kit\Manual identidad\Manual identidad empaquetado\Document fonts\arial.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1045960
+FileModTime:1651897158
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+FullName:Arial Bold
+MenuName:Arial
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\belen\Desktop\FIRECHIP\Citychip\press-kit\Manual identidad\Manual identidad empaquetado\Document fonts\arialbd.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:990208
+FileModTime:1651897158
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial Bold
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldItalicMT
+FamilyName:Arial
+StyleName:Bold Italic
+FullName:Arial Bold Italic
+MenuName:Arial
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\belen\Desktop\FIRECHIP\Citychip\press-kit\Manual identidad\Manual identidad empaquetado\Document fonts\arialbi.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:730804
+FileModTime:1651897158
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Arial Bold Italic
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-ItalicMT
+FamilyName:Arial
+StyleName:Italic
+FullName:Arial Italic
+MenuName:Arial
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\belen\Desktop\FIRECHIP\Citychip\press-kit\Manual identidad\Manual identidad empaquetado\Document fonts\ariali.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:727152
+FileModTime:1651897158
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Arial Italic
+NameArray:0,Win,1,Arial
+%EndFont
+
